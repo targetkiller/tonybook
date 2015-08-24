@@ -1,13 +1,13 @@
 ##TonyBook 2015.
 
-托尼托尼学习小组学习总结小书([Github地址](https://github.com/isux/tonybook))
+托尼托尼学习小组学习总结小书([Github地址](https://github.com/targetkiller/tonybook))
 
 `少侠的学习热情那么高昂，吓得我都坐在了地上`
 
 ###使用方法
 > 1.Github fork
 
-到 [https://github.com/isux/tonybook](https://github.com/isux/tonybook) fork一份代码到自己的repo，然后`git clone`到本地，如：
+到 [https://github.com/targetkiller/tonybook](https://github.com/targetkiller/tonybook) fork一份代码到自己的repo，然后`git clone`到本地，如：
 
 ```javascript
 git clone https://github.com/targetkiller/tonybook.git
