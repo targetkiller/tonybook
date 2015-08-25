@@ -43,7 +43,7 @@ fork下来后最好新建一个自己的git分支，之后更新只需要git fet
 
 ![tonystudy_qrcode](http://storyincafe.com/tonystudy_qrcode.jpg)
 
-发布后的文章会在[http://tonystudy.github.io](http://tonystudy.github.io)上看到（右边侧边栏是demo列表）。
+发布后的文章会在[http://tonystudy.github.io](http://tonystudy.github.io)上看到（左边侧边栏是demo列表）。
 
 每一期学习结束后才会更新上去，因此你要做的，就是用markdown写文章就好了！
 
